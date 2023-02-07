@@ -6,7 +6,11 @@ ESTRUCTURA Y TRAZABILIDAD DE LA METODOLOGÍA PROPUESTA.
 
 
 ROLES GENÉRICOS DE MIRNP
+
+
 ![RolesMIRNP](https://user-images.githubusercontent.com/87507595/217350448-ef7cef62-e32d-4a06-bc6f-402b120366ba.png)
+
+
 
 DIAGRAMA ITERACIÓN Y RECURSIVIDAD EN LA APLICACIÓN DE PROCESOS
 ![Iteranccion_Recursiva_Procesos](https://user-images.githubusercontent.com/87507595/217350573-74a162b2-da6a-4414-a037-17a38f7ff5b9.png)
